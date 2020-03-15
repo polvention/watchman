@@ -1,0 +1,12 @@
+[submodule "libusb-cpp"]
+	path = libusb-cpp
+	url = git@github.com:polvention/libusb-cpp.git
+[submodule "tests/googletest"]
+	path = tests/googletest
+	url = git@github.com:google/googletest.git
+[submodule "android_libwatchman"]
+	path = android_libwatchman
+	url = git@github.com:polvention/android_libwatchman.git
+[submodule "libusb"]
+	path = libusb
+	url = git@github.com:libusb/libusb.git
